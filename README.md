@@ -272,15 +272,3 @@ Web Server 01 automatically returned to the backend pool after passing health ch
 * High Availability Architecture
 * Fault Tolerance Testing
 * Cloud Infrastructure Documentation
-
----
-
-# Future Improvements
-
-Planned enhancements:
-
-* Deploy infrastructure using Terraform
-* Add Azure Application Gateway with WAF
-* Containerize Apache servers with Docker
-* Deploy application using Kubernetes (AKS)
-* Add monitoring using Azure Monitor
